@@ -1,1 +1,1 @@
-# Deploy-your-first-smart-contract
+# Deploy your first smart contract
